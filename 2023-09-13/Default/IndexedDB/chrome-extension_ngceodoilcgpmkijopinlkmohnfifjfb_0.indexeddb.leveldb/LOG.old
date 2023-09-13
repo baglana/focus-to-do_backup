@@ -1,0 +1,27 @@
+2023/09/04-15:06:11.303 1853f Reusing MANIFEST /home/bag/.config/google-chrome/Default/IndexedDB/chrome-extension_ngceodoilcgpmkijopinlkmohnfifjfb_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/04-15:06:11.304 1853f Recovering log #49
+2023/09/04-15:06:11.306 1853f Level-0 table #53: started
+2023/09/04-15:06:11.308 1853f Level-0 table #53: 43642 bytes OK
+2023/09/04-15:06:11.309 1853f Recovering log #53
+2023/09/04-15:06:11.310 1853f Reusing old log /home/bag/.config/google-chrome/Default/IndexedDB/chrome-extension_ngceodoilcgpmkijopinlkmohnfifjfb_0.indexeddb.leveldb/000053.log 
+2023/09/04-15:06:11.313 1853f Delete type=2 #55
+2023/09/04-15:06:11.313 1853f Delete type=0 #49
+2023/09/04-15:06:12.365 18540 Moved #53 to level-1 43642 bytes OK: files[ 0 1 1 0 0 0 0 ]
+2023/09/04-15:06:12.431 18540 Compacting 1@1 + 1@2 files
+2023/09/04-15:06:12.441 18540 Generated table #54@1: 2626 keys, 232839 bytes
+2023/09/04-15:06:12.441 18540 Compacted 1@1 + 1@2 files => 232839 bytes
+2023/09/04-15:06:12.444 18540 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/09/04-18:39:52.067 1854c Level-0 table #56: started
+2023/09/04-18:39:52.070 1854c Level-0 table #56: 36372 bytes OK
+2023/09/04-18:39:52.072 1854c Delete type=0 #53
+2023/09/04-18:39:52.072 1854c Delete type=2 #51
+2023/09/04-18:39:52.072 1854c Delete type=2 #53
+2023/09/04-18:39:52.076 18540 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/09/04-18:39:52.076 18540 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x0b\x01!\x01\x00\x00\x01\x0d\x00i\x00d\x00-\x00t\x00a\x00s\x00k\x00-\x00t\x00a\x00s\x00k\x00s' @ 73061 : 1
+2023/09/04-18:39:52.076 18540 Compacting 1@1 + 1@2 files
+2023/09/04-18:39:52.085 18540 Generated table #57@1: 2828 keys, 239666 bytes
+2023/09/04-18:39:52.085 18540 Compacted 1@1 + 1@2 files => 239666 bytes
+2023/09/04-18:39:52.087 18540 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/09/04-18:39:52.087 18540 Delete type=2 #54
+2023/09/04-18:39:52.087 18540 Delete type=2 #56
+2023/09/04-18:39:52.087 1854c Manual compaction at level-1 from '\x00\x0b\x01!\x01\x00\x00\x01\x0d\x00i\x00d\x00-\x00t\x00a\x00s\x00k\x00-\x00t\x00a\x00s\x00k\x00s' @ 73061 : 1 .. (end); will stop at (end)
