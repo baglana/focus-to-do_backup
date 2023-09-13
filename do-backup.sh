@@ -17,7 +17,7 @@ declare -a relPathsArray=(
 "Default/IndexedDB/chrome-extension_ngceodoilcgpmkijopinlkmohnfifjfb_0.indexeddb.leveldb"
 "Default/Local Extension Settings/ngceodoilcgpmkijopinlkmohnfifjfb"
 "Default/Sync Extension Settings/ngceodoilcgpmkijopinlkmohnfifjfb"
-"Default/Extensions/ngceodoilcgpmkijopinlkmohnfifjfb"
+#"Default/Extensions/ngceodoilcgpmkijopinlkmohnfifjfb"
 "extensions_crx_cache/ngceodoilcgpmkijopinlkmohnfifjfb_1.856545d6bcb2063e33bddbd9365c86c6e1df8a673a6cf6aa46e42c2d9bf9698d"
 )
 
