@@ -2,7 +2,7 @@
 #!/bin/bash
 
 # Create backup directory
-base_dir="/home/bag/focus-to-do_backup"
+base_dir="/home/bag/repos/focus-to-do_backup"
 today=$(date +'%Y-%m-%d')
 backup_dir="${base_dir}/${today}"
 mkdir $backup_dir

@@ -3,7 +3,7 @@
 #!/bin/bash
 
 # Build path to backup directory
-base_dir="/home/bag/focus-to-do_backup"
+base_dir="/home/bag/repos/focus-to-do_backup"
 backup_dir="${base_dir}/$1"
 echo "$backup_dir"
 
