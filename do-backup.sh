@@ -16,6 +16,9 @@ else
   mkdir $backup_dir
 
   chrome_dir="/home/bag/.config/google-chrome"
+  # Uncomment next line for macos
+  chrome_dir="/Users/bag/Library/Application Support/Google/Chrome"
+
 
   # Cannot use list from find because of space characters in extension folder names
   #paths_list=$(find $chrome_dir -name "*ngceodoilcgpmkijopinlkmohnfifjfb*")

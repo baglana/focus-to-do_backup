@@ -8,6 +8,8 @@ backup_dir="${base_dir}/$1"
 echo "$backup_dir"
 
 chrome_dir="/home/bag/.config/google-chrome"
+#Uncomment next line for macos
+chrome_dir="/Users/bag/Library/Application Support/Google/Chrome"
 
 # Copy files from backup directory to chrome directory
 cp -a "${backup_dir}/." "${chrome_dir}/"
