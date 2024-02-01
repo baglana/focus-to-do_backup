@@ -1,0 +1,14 @@
+2024/01/29-06:52:59.535 9f03 Reusing MANIFEST /Users/bag/Library/Application Support/Google/Chrome/Default/IndexedDB/chrome-extension_ngceodoilcgpmkijopinlkmohnfifjfb_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/29-06:52:59.536 9f03 Recovering log #115
+2024/01/29-06:52:59.600 9f03 Reusing old log /Users/bag/Library/Application Support/Google/Chrome/Default/IndexedDB/chrome-extension_ngceodoilcgpmkijopinlkmohnfifjfb_0.indexeddb.leveldb/000115.log 
+2024/01/29-06:52:59.600 9f03 Delete type=0 #4
+2024/01/29-06:52:59.600 9f03 Delete type=2 #5
+2024/01/29-06:53:29.081 b203 Level-0 table #120: started
+2024/01/29-06:53:29.157 b203 Level-0 table #120: 1141438 bytes OK
+2024/01/29-06:53:29.174 b203 Delete type=0 #115
+2024/01/29-06:53:29.314 8107 Compacting 1@1 + 1@2 files
+2024/01/29-06:53:29.410 8107 Generated table #121@1: 14149 keys, 1302105 bytes
+2024/01/29-06:53:29.410 8107 Compacted 1@1 + 1@2 files => 1302105 bytes
+2024/01/29-06:53:29.424 8107 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/01/29-06:53:29.424 8107 Delete type=2 #117
+2024/01/29-06:53:29.425 8107 Delete type=2 #120
