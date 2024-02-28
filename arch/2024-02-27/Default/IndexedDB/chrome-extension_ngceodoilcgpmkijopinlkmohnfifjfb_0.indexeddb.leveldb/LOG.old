@@ -1,0 +1,26 @@
+2024/02/24-13:41:36.557 8307 Reusing MANIFEST /Users/bag/Library/Application Support/Google/Chrome/Default/IndexedDB/chrome-extension_ngceodoilcgpmkijopinlkmohnfifjfb_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/24-13:41:36.558 8307 Recovering log #130
+2024/02/24-13:41:36.606 8307 Reusing old log /Users/bag/Library/Application Support/Google/Chrome/Default/IndexedDB/chrome-extension_ngceodoilcgpmkijopinlkmohnfifjfb_0.indexeddb.leveldb/000130.log 
+2024/02/24-13:41:36.607 8307 Delete type=0 #4
+2024/02/24-13:41:36.607 8307 Delete type=2 #5
+2024/02/24-18:44:53.034 b103 Level-0 table #135: started
+2024/02/24-18:44:53.120 b103 Level-0 table #135: 1180997 bytes OK
+2024/02/24-18:44:53.131 b103 Delete type=0 #130
+2024/02/24-18:44:53.154 8903 Compacting 1@1 + 1@2 files
+2024/02/24-18:44:53.229 8903 Generated table #136@1: 20028 keys, 1846610 bytes
+2024/02/24-18:44:53.229 8903 Compacted 1@1 + 1@2 files => 1846610 bytes
+2024/02/24-18:44:53.242 8903 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/24-18:44:53.242 8903 Delete type=2 #135
+2024/02/24-18:44:53.242 8903 Delete type=2 #132
+2024/02/26-00:34:18.926 8903 Level-0 table #138: started
+2024/02/26-00:34:18.940 8903 Level-0 table #138: 336754 bytes OK
+2024/02/26-00:34:18.961 8903 Delete type=0 #134
+2024/02/26-00:34:18.989 8903 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/02/26-00:34:18.989 8903 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x0a\x04"\x03\x00\x00\x00\x00\x00\x00\xf0?\x00\x01$\x00F\x008\x00E\x002\x00A\x000\x00F\x00F\x00-\x002\x007\x006\x00C\x00-\x004\x00A\x008\x009\x00-\x008\x00B\x00C\x003\x00-\x009\x00C\x003\x009\x00C\x004\x00A\x00F\x001\x00B\x004\x008' @ 289230 : 1
+2024/02/26-00:34:18.989 8903 Compacting 1@1 + 1@2 files
+2024/02/26-00:34:19.044 8903 Generated table #139@1: 20185 keys, 1871068 bytes
+2024/02/26-00:34:19.044 8903 Compacted 1@1 + 1@2 files => 1871068 bytes
+2024/02/26-00:34:19.054 8903 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/26-00:34:19.055 8903 Delete type=2 #138
+2024/02/26-00:34:19.055 8903 Delete type=2 #136
+2024/02/26-00:34:19.061 8903 Manual compaction at level-1 from '\x00\x0a\x04"\x03\x00\x00\x00\x00\x00\x00\xf0?\x00\x01$\x00F\x008\x00E\x002\x00A\x000\x00F\x00F\x00-\x002\x007\x006\x00C\x00-\x004\x00A\x008\x009\x00-\x008\x00B\x00C\x003\x00-\x009\x00C\x003\x009\x00C\x004\x00A\x00F\x001\x00B\x004\x008' @ 289230 : 1 .. (end); will stop at (end)
