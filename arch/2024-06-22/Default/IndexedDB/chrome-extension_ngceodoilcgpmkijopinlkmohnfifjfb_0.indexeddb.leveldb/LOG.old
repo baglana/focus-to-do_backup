@@ -1,0 +1,17 @@
+2024/06/20-13:33:39.710 8207 Reusing MANIFEST /Users/bag/Library/Application Support/Google/Chrome/Default/IndexedDB/chrome-extension_ngceodoilcgpmkijopinlkmohnfifjfb_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/20-13:33:39.710 8207 Recovering log #236
+2024/06/20-13:33:39.721 8207 Reusing old log /Users/bag/Library/Application Support/Google/Chrome/Default/IndexedDB/chrome-extension_ngceodoilcgpmkijopinlkmohnfifjfb_0.indexeddb.leveldb/000236.log 
+2024/06/21-17:56:35.419 8503 Level-0 table #242: started
+2024/06/21-17:56:35.467 8503 Level-0 table #242: 176668 bytes OK
+2024/06/21-17:56:35.488 8503 Delete type=0 #236
+2024/06/21-17:56:35.495 8503 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/06/21-17:56:35.497 8503 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x0a\x04"\x03\x00\x00\x00\x00\x00\x00\xf0?\x00\x01$\x00F\x00D\x00D\x009\x008\x003\x008\x007\x00-\x001\x00A\x009\x004\x00-\x004\x008\x002\x00A\x00-\x00A\x008\x00B\x002\x00-\x00F\x00B\x009\x00E\x004\x006\x00F\x003\x00E\x004\x00C\x00E' @ 511448 : 1
+2024/06/21-17:56:35.497 8503 Compacting 1@1 + 2@2 files
+2024/06/21-17:56:35.615 8503 Generated table #243@1: 19968 keys, 2189439 bytes
+2024/06/21-17:56:35.691 8503 Generated table #244@1: 14990 keys, 1096098 bytes
+2024/06/21-17:56:35.691 8503 Compacted 1@1 + 2@2 files => 3285537 bytes
+2024/06/21-17:56:35.713 8503 compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/06/21-17:56:35.715 8503 Delete type=2 #239
+2024/06/21-17:56:35.715 8503 Delete type=2 #238
+2024/06/21-17:56:35.715 8503 Delete type=2 #242
+2024/06/21-17:56:35.718 8503 Manual compaction at level-1 from '\x00\x0a\x04"\x03\x00\x00\x00\x00\x00\x00\xf0?\x00\x01$\x00F\x00D\x00D\x009\x008\x003\x008\x007\x00-\x001\x00A\x009\x004\x00-\x004\x008\x002\x00A\x00-\x00A\x008\x00B\x002\x00-\x00F\x00B\x009\x00E\x004\x006\x00F\x003\x00E\x004\x00C\x00E' @ 511448 : 1 .. (end); will stop at (end)
