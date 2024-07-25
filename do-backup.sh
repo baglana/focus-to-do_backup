@@ -17,7 +17,7 @@ else
 
   chrome_dir="/home/bag/.config/google-chrome"
   # Uncomment next line for macos
-  chrome_dir="/Users/bag/Library/Application Support/Google/Chrome"
+  #chrome_dir="/Users/bag/Library/Application Support/Google/Chrome"
 
 
   # Cannot use list from find because of space characters in extension folder names
