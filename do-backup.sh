@@ -3,6 +3,7 @@
 
 # Check if dir with today's date exists
 base_dir=$(pwd)
+username=$(whoami)
 today=$(date +'%Y-%m-%d')
 backup_dir="${base_dir}/${today}"
 
@@ -15,20 +16,21 @@ else
   # Create backup directory
   mkdir $backup_dir
 
-  chrome_dir="/home/bag/.config/google-chrome"
+  chrome_dir="/home/${username}/.config/google-chrome"
   # Uncomment next line for macos
-  #chrome_dir="/Users/bag/Library/Application Support/Google/Chrome"
+  chrome_dir="/Users/${username}/Library/Application Support/Google/Chrome"
 
+  profile_name="Default"
 
   # Cannot use list from find because of space characters in extension folder names
   #paths_list=$(find $chrome_dir -name "*ngceodoilcgpmkijopinlkmohnfifjfb*")
 
   # Declare a string array with type
-  declare -a relPathsArray=(
-  "Default/IndexedDB/chrome-extension_ngceodoilcgpmkijopinlkmohnfifjfb_0.indexeddb.leveldb"
-  "Default/Local Extension Settings/ngceodoilcgpmkijopinlkmohnfifjfb"
-  "Default/Sync Extension Settings/ngceodoilcgpmkijopinlkmohnfifjfb"
-  #"Default/Extensions/ngceodoilcgpmkijopinlkmohnfifjfb"
+  declare -a rDelPathsArray=(
+  "${profile_name}/IndexedDB/chrome-extension_ngceodoilcgpmkijopinlkmohnfifjfb_0.indexeddb.leveldb"
+  "${profile_name}/Local Extension Settings/ngceodoilcgpmkijopinlkmohnfifjfb"
+  "${profile_name}/Sync Extension Settings/ngceodoilcgpmkijopinlkmohnfifjfb"
+  #"${profile_name}/Extensions/ngceodoilcgpmkijopinlkmohnfifjfb"
   "extensions_crx_cache/ngceodoilcgpmkijopinlkmohnfifjfb_1.856545d6bcb2063e33bddbd9365c86c6e1df8a673a6cf6aa46e42c2d9bf9698d"
   )
 
