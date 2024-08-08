@@ -26,7 +26,7 @@ else
   #paths_list=$(find $chrome_dir -name "*ngceodoilcgpmkijopinlkmohnfifjfb*")
 
   # Declare a string array with type
-  declare -a rDelPathsArray=(
+  declare -a relPathsArray=(
   "${profile_name}/IndexedDB/chrome-extension_ngceodoilcgpmkijopinlkmohnfifjfb_0.indexeddb.leveldb"
   "${profile_name}/Local Extension Settings/ngceodoilcgpmkijopinlkmohnfifjfb"
   "${profile_name}/Sync Extension Settings/ngceodoilcgpmkijopinlkmohnfifjfb"
