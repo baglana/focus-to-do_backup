@@ -1,0 +1,5 @@
+2024/10/01-17:09:59.583 ef03 Reusing MANIFEST /Users/lany/Library/Application Support/Google/Chrome/Default/IndexedDB/chrome-extension_ngceodoilcgpmkijopinlkmohnfifjfb_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/01-17:09:59.586 ef03 Recovering log #301
+2024/10/01-17:09:59.591 ef03 Reusing old log /Users/lany/Library/Application Support/Google/Chrome/Default/IndexedDB/chrome-extension_ngceodoilcgpmkijopinlkmohnfifjfb_0.indexeddb.leveldb/000301.log 
+2024/10/01-17:09:59.592 ef03 Delete type=0 #4
+2024/10/01-17:09:59.592 ef03 Delete type=2 #5

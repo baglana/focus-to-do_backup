@@ -1,0 +1,17 @@
+2024/10/01-19:19:07.236 8c03 Reusing MANIFEST /Users/lany/Library/Application Support/Google/Chrome/Default/IndexedDB/chrome-extension_ngceodoilcgpmkijopinlkmohnfifjfb_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/01-19:19:07.237 8c03 Recovering log #301
+2024/10/01-19:19:07.238 8c03 Reusing old log /Users/lany/Library/Application Support/Google/Chrome/Default/IndexedDB/chrome-extension_ngceodoilcgpmkijopinlkmohnfifjfb_0.indexeddb.leveldb/000301.log 
+2024/10/04-13:19:57.806 8c03 Level-0 table #307: started
+2024/10/04-13:19:57.827 8c03 Level-0 table #307: 284907 bytes OK
+2024/10/04-13:19:57.835 8c03 Delete type=0 #301
+2024/10/04-13:19:57.841 8c03 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/10/04-13:19:57.841 8c03 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x0a\x04"\x03\x00\x00\x00\x00\x00\x00\xf0?\x00\x01$\x00F\x00F\x005\x00A\x00B\x00E\x00D\x003\x00-\x001\x00E\x005\x007\x00-\x004\x006\x005\x006\x00-\x009\x001\x003\x008\x00-\x00B\x001\x00F\x000\x007\x00E\x00C\x00E\x009\x009\x000\x005' @ 594211 : 1
+2024/10/04-13:19:57.842 8c03 Compacting 1@1 + 2@2 files
+2024/10/04-13:19:57.940 8c03 Generated table #308@1: 18610 keys, 2186369 bytes
+2024/10/04-13:19:58.243 8c03 Generated table #309@1: 20903 keys, 1529464 bytes
+2024/10/04-13:19:58.243 8c03 Compacted 1@1 + 2@2 files => 3715833 bytes
+2024/10/04-13:19:58.248 8c03 compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/10/04-13:19:58.249 8c03 Delete type=2 #303
+2024/10/04-13:19:58.249 8c03 Delete type=2 #307
+2024/10/04-13:19:58.249 8c03 Delete type=2 #304
+2024/10/04-13:19:58.251 b403 Manual compaction at level-1 from '\x00\x0a\x04"\x03\x00\x00\x00\x00\x00\x00\xf0?\x00\x01$\x00F\x00F\x005\x00A\x00B\x00E\x00D\x003\x00-\x001\x00E\x005\x007\x00-\x004\x006\x005\x006\x00-\x009\x001\x003\x008\x00-\x00B\x001\x00F\x000\x007\x00E\x00C\x00E\x009\x009\x000\x005' @ 594211 : 1 .. (end); will stop at (end)
