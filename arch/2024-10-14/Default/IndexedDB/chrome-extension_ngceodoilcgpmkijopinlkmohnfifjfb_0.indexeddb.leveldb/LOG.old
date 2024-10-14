@@ -1,0 +1,31 @@
+2024/10/10-13:01:54.760 a603 Reusing MANIFEST /Users/lany/Library/Application Support/Google/Chrome/Default/IndexedDB/chrome-extension_ngceodoilcgpmkijopinlkmohnfifjfb_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/10-13:01:54.761 a603 Recovering log #311
+2024/10/10-13:01:54.839 a603 Level-0 table #316: started
+2024/10/10-13:01:54.876 a603 Level-0 table #316: 548995 bytes OK
+2024/10/10-13:01:54.877 a603 Recovering log #322
+2024/10/10-13:01:54.878 a603 Reusing old log /Users/lany/Library/Application Support/Google/Chrome/Default/IndexedDB/chrome-extension_ngceodoilcgpmkijopinlkmohnfifjfb_0.indexeddb.leveldb/000322.log 
+2024/10/10-13:01:54.885 a603 Delete type=0 #311
+2024/10/10-13:01:54.886 a603 Delete type=2 #324
+2024/10/10-13:01:55.273 a603 Moved #316 to level-1 548995 bytes OK: files[ 0 1 2 0 0 0 0 ]
+2024/10/10-13:01:56.875 a603 Compacting 1@1 + 2@2 files
+2024/10/10-13:01:56.988 a603 Generated table #323@1: 17799 keys, 2184331 bytes
+2024/10/10-13:01:57.230 a603 Generated table #324@1: 23256 keys, 1673657 bytes
+2024/10/10-13:01:57.230 a603 Compacted 1@1 + 2@2 files => 3857988 bytes
+2024/10/10-13:01:57.250 a603 compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/10/13-16:07:46.556 a603 Level-0 table #326: started
+2024/10/13-16:07:46.751 a603 Level-0 table #326: 170629 bytes OK
+2024/10/13-16:07:46.851 a603 Delete type=2 #314
+2024/10/13-16:07:46.853 a603 Delete type=2 #316
+2024/10/13-16:07:46.853 a603 Delete type=2 #313
+2024/10/13-16:07:46.853 a603 Delete type=0 #322
+2024/10/13-16:07:46.865 a603 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/10/13-16:07:46.866 a603 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x0a\x04"\x03\x00\x00\x00\x00\x00\x00\xf0?\x00\x01$\x00F\x00D\x00F\x00C\x002\x00C\x00F\x008\x00-\x000\x009\x003\x007\x00-\x004\x007\x00B\x009\x00-\x00A\x00D\x004\x006\x00-\x005\x008\x00C\x00B\x006\x009\x000\x004\x003\x00A\x00E\x00E' @ 620358 : 1
+2024/10/13-16:07:46.866 a603 Compacting 1@1 + 2@2 files
+2024/10/13-16:07:47.845 a603 Generated table #327@1: 17785 keys, 2185078 bytes
+2024/10/13-16:07:48.493 a603 Generated table #328@1: 23056 keys, 1662350 bytes
+2024/10/13-16:07:48.494 a603 Compacted 1@1 + 2@2 files => 3847428 bytes
+2024/10/13-16:07:48.611 a603 compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/10/13-16:07:48.613 a603 Delete type=2 #323
+2024/10/13-16:07:48.614 a603 Delete type=2 #326
+2024/10/13-16:07:48.614 a603 Delete type=2 #324
+2024/10/13-16:07:48.639 a603 Manual compaction at level-1 from '\x00\x0a\x04"\x03\x00\x00\x00\x00\x00\x00\xf0?\x00\x01$\x00F\x00D\x00F\x00C\x002\x00C\x00F\x008\x00-\x000\x009\x003\x007\x00-\x004\x007\x00B\x009\x00-\x00A\x00D\x004\x006\x00-\x005\x008\x00C\x00B\x006\x009\x000\x004\x003\x00A\x00E\x00E' @ 620358 : 1 .. (end); will stop at (end)
